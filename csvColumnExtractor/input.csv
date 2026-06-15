@@ -1,0 +1,16 @@
+ID,FirstName,LastName,Email,Department,Salary,JoiningDate,City,Active
+1,John,Doe,john.doe@example.com,Engineering,85000,2023-01-15,New York,true
+2,Jane,Smith,jane.smith@example.com,Marketing,72000,2022-11-03,Chicago,true
+3,Michael,Johnson,michael.johnson@example.com,Finance,68000,2021-06-28,Boston,false
+4,Emily,Williams,emily.williams@example.com,HR,60000,2024-02-12,Seattle,true
+5,David,Brown,david.brown@example.com,Engineering,91000,2020-09-05,San Francisco,true
+6,Sarah,Jones,sarah.jones@example.com,Sales,65000,2023-07-19,Dallas,true
+7,Robert,Garcia,robert.garcia@example.com,Support,54000,2022-04-01,Miami,false
+8,Linda,Miller,linda.miller@example.com,Marketing,73000,2021-12-10,Denver,true
+9,James,Davis,james.davis@example.com,Engineering,98000,2019-08-22,Austin,true
+10,Patricia,Martinez,patricia.martinez@example.com,Finance,70000,2024-03-30,Phoenix,true
+11,Christopher,Lopez,christopher.lopez@example.com,Operations,62000,2022-05-16,Atlanta,false
+12,Barbara,Wilson,barbara.wilson@example.com,HR,59000,2020-10-08,Portland,true
+13,Daniel,Anderson,daniel.anderson@example.com,Engineering,88000,2023-09-14,San Diego,true
+14,Jennifer,Thomas,jennifer.thomas@example.com,Sales,67000,2021-01-27,Las Vegas,false
+15,Matthew,Taylor,matthew.taylor@example.com,Support,56000,2024-05-02,Orlando,true
