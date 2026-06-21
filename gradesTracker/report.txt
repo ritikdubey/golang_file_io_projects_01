@@ -1,0 +1,181 @@
+------------------------------------------------
+Name: Alice Johnson
+Maths: 85
+Science: 90
+English: 88
+History: 82
+Computer: 95
+
+Percentage: 89.00
+------------------------------------------------
+Name: Bob Smith
+Maths: 78
+Science: 74
+English: 80
+History: 79
+Computer: 85
+
+Percentage: 74.80
+------------------------------------------------
+Name: Charlie Brown
+Maths: 92
+Science: 89
+English: 94
+History: 90
+Computer: 96
+
+Percentage: 89.60
+------------------------------------------------
+Name: Diana Wilson
+Maths: 67
+Science: 72
+English: 70
+History: 68
+Computer: 75
+
+Percentage: 71.00
+------------------------------------------------
+Name: Ethan Davis
+Maths: 88
+Science: 91
+English: 85
+History: 87
+Computer: 90
+
+Percentage: 90.40
+------------------------------------------------
+Name: Fiona Miller
+Maths: 95
+Science: 97
+English: 93
+History: 96
+Computer: 98
+
+Percentage: 96.60
+------------------------------------------------
+Name: George Clark
+Maths: 55
+Science: 60
+English: 58
+History: 62
+Computer: 65
+
+Percentage: 59.00
+------------------------------------------------
+Name: Hannah Lewis
+Maths: 81
+Science: 84
+English: 79
+History: 83
+Computer: 88
+
+Percentage: 83.40
+------------------------------------------------
+Name: Ian Walker
+Maths: 73
+Science: 70
+English: 75
+History: 72
+Computer: 78
+
+Percentage: 70.60
+------------------------------------------------
+Name: Julia Hall
+Maths: 89
+Science: 92
+English: 90
+History: 91
+Computer: 94
+
+Percentage: 91.40
+------------------------------------------------
+Name: Kevin Allen
+Maths: 64
+Science: 68
+English: 66
+History: 70
+Computer: 72
+
+Percentage: 67.20
+------------------------------------------------
+Name: Laura Young
+Maths: 91
+Science: 88
+English: 92
+History: 89
+Computer: 95
+
+Percentage: 88.60
+------------------------------------------------
+Name: Michael King
+Maths: 76
+Science: 79
+English: 74
+History: 77
+Computer: 80
+
+Percentage: 78.40
+------------------------------------------------
+Name: Nina Scott
+Maths: 83
+Science: 85
+English: 87
+History: 84
+Computer: 89
+
+Percentage: 84.60
+------------------------------------------------
+Name: Oscar Green
+Maths: 58
+Science: 61
+English: 63
+History: 60
+Computer: 66
+
+Percentage: 60.40
+------------------------------------------------
+Name: Paula Baker
+Maths: 97
+Science: 95
+English: 98
+History: 96
+Computer: 99
+
+Percentage: 95.40
+------------------------------------------------
+Name: Quinn Adams
+Maths: 72
+Science: 75
+English: 70
+History: 74
+Computer: 78
+
+Percentage: 74.40
+------------------------------------------------
+Name: Rachel Nelson
+Maths: 86
+Science: 88
+English: 84
+History: 87
+Computer: 91
+
+Percentage: 87.60
+------------------------------------------------
+Name: Samuel Carter
+Maths: 69
+Science: 65
+English: 71
+History: 68
+Computer: 73
+
+Percentage: 65.80
+------------------------------------------------
+Name: Tina Mitchell
+Maths: 93
+Science: 94
+English: 92
+History: 95
+Computer: 97
+
+Percentage: 93.80
+------------------------------------------------
