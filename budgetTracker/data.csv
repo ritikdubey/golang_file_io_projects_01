@@ -1,0 +1,23 @@
+Date,Type,Category,Description,Amount
+2026-01-01,Income,Salary,January Salary,75000
+2026-01-02,Expense,Rent,Apartment Rent,18000
+2026-01-03,Expense,Groceries,Supermarket Shopping,3200
+2026-01-04,Expense,Transportation,Metro Card Recharge,1200
+2026-01-05,Expense,Entertainment,Movie Tickets,800
+2026-01-06,Income,Freelance,Website Project,12000
+2026-01-07,Expense,Utilities,Electricity Bill,2500
+2026-01-08,Expense,Dining,Restaurant Dinner,1500
+2026-01-09,Expense,Shopping,Clothes Purchase,4500
+2026-01-10,Expense,Healthcare,Doctor Visit,1000
+2026-01-12,Expense,Groceries,Fruits and Vegetables,1400
+2026-01-15,Income,Investment,Dividend Payment,3500
+2026-01-16,Expense,Transportation,Cab Ride,450
+2026-01-18,Expense,Entertainment,Streaming Subscription,499
+2026-01-20,Expense,Utilities,Internet Bill,999
+2026-01-21,Expense,Dining,Coffee Shop,350
+2026-01-22,Expense,Shopping,Mobile Accessories,1200
+2026-01-24,Expense,Groceries,Monthly Grocery Refill,2800
+2026-01-25,Income,Bonus,Performance Bonus,10000
+2026-01-27,Expense,Travel,Weekend Trip,6500
+2026-01-29,Expense,Healthcare,Medicines,750
+2026-01-30,Expense,Entertainment,Concert Ticket,2500
