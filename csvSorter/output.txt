@@ -1,0 +1,168 @@
+=================================================
+DATA SORTED BY NAME 
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin
+=================================================
+=================================================
+DATA SORTED BY AGE 
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston
+=================================================
+=================================================
+DATA SORTED BY SALARY 
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle
+=================================================
+=================================================
+DATA SORTED BY DEPARTMENT 
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix
+=================================================
+=================================================
+DATA SORTED BY EXPERIENCE 
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston
+=================================================
+=================================================
+DATA SORTED BY JOINING DATE 
+1011, Kevin Allen, HR, 45, 93000, 15, 45, Boston, 2012-10-05 00:00:00 +0000 UTC
+1015, Oscar Green, Engineering, 37, 115000, 13, 37, Seattle, 2013-07-16 00:00:00 +0000 UTC
+1009, Ian Walker, Engineering, 35, 110000, 11, 35, Seattle, 2014-04-08 00:00:00 +0000 UTC
+1020, Tina Mitchell, Finance, 36, 108000, 12, 36, Chicago, 2014-06-03 00:00:00 +0000 UTC
+1004, Diana Wilson, HR, 41, 88000, 12, 41, Boston, 2015-05-18 00:00:00 +0000 UTC
+1018, Rachel Nelson, HR, 39, 91000, 11, 39, Boston, 2015-09-21 00:00:00 +0000 UTC
+1007, George Clark, Finance, 38, 105000, 10, 38, Chicago, 2016-08-14 00:00:00 +0000 UTC
+1023, Xavier Bell, Marketing, 35, 84000, 9, 35, Denver, 2017-02-15 00:00:00 +0000 UTC
+1002, Bob Smith, Finance, 34, 92000, 8, 34, Chicago, 2018-07-22 00:00:00 +0000 UTC
+1013, Michael King, Sales, 33, 81000, 8, 33, Phoenix, 2018-12-11 00:00:00 +0000 UTC
+1021, Victor Reed, Engineering, 31, 89000, 7, 31, Seattle, 2019-08-09 00:00:00 +0000 UTC
+1005, Ethan Davis, Marketing, 31, 76000, 7, 31, Denver, 2019-09-30 00:00:00 +0000 UTC
+1017, Quinn Adams, Sales, 32, 83000, 7, 32, Phoenix, 2019-11-07 00:00:00 +0000 UTC
+1014, Nina Scott, Finance, 29, 87000, 6, 29, Chicago, 2020-03-28 00:00:00 +0000 UTC
+1024, Yara Cooper, HR, 30, 85000, 6, 30, Boston, 2020-10-10 00:00:00 +0000 UTC
+1025, Zack Turner, Engineering, 29, 98000, 6, 29, Austin, 2020-11-12 00:00:00 +0000 UTC
+1006, Fiona Miller, Engineering, 29, 98000, 6, 29, Austin, 2020-11-12 00:00:00 +0000 UTC
+1010, Julia Hall, Marketing, 30, 79000, 5, 30, Denver, 2021-01-19 00:00:00 +0000 UTC
+1001, Alice Johnson, Engineering, 28, 85000, 5, 28, New York, 2021-03-15 00:00:00 +0000 UTC
+1019, Samuel Carter, Engineering, 27, 76000, 4, 27, Austin, 2022-01-13 00:00:00 +0000 UTC
+1016, Paula Baker, Marketing, 28, 77000, 4, 28, Denver, 2022-04-14 00:00:00 +0000 UTC
+1008, Hannah Lewis, Sales, 27, 70000, 4, 27, Phoenix, 2022-06-25 00:00:00 +0000 UTC
+1003, Charlie Brown, Engineering, 26, 78000, 3, 26, Seattle, 2023-01-10 00:00:00 +0000 UTC
+1022, Wendy Price, Sales, 26, 69000, 3, 26, Phoenix, 2023-05-20 00:00:00 +0000 UTC
+1012, Laura Young, Engineering, 24, 72000, 2, 24, Austin, 2024-02-01 00:00:00 +0000 UTC
+=================================================

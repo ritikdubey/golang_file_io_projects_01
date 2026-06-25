@@ -1,0 +1,26 @@
+EmployeeID,Name,Department,Age,Salary,Experience,JoiningDate,City
+1001,Alice Johnson,Engineering,28,85000,5,2021-03-15,New York
+1002,Bob Smith,Finance,34,92000,8,2018-07-22,Chicago
+1003,Charlie Brown,Engineering,26,78000,3,2023-01-10,Seattle
+1004,Diana Wilson,HR,41,88000,12,2015-05-18,Boston
+1005,Ethan Davis,Marketing,31,76000,7,2019-09-30,Denver
+1006,Fiona Miller,Engineering,29,98000,6,2020-11-12,Austin
+1007,George Clark,Finance,38,105000,10,2016-08-14,Chicago
+1008,Hannah Lewis,Sales,27,70000,4,2022-06-25,Phoenix
+1009,Ian Walker,Engineering,35,110000,11,2014-04-08,Seattle
+1010,Julia Hall,Marketing,30,79000,5,2021-01-19,Denver
+1011,Kevin Allen,HR,45,93000,15,2012-10-05,Boston
+1012,Laura Young,Engineering,24,72000,2,2024-02-01,Austin
+1013,Michael King,Sales,33,81000,8,2018-12-11,Phoenix
+1014,Nina Scott,Finance,29,87000,6,2020-03-28,Chicago
+1015,Oscar Green,Engineering,37,115000,13,2013-07-16,Seattle
+1016,Paula Baker,Marketing,28,77000,4,2022-04-14,Denver
+1017,Quinn Adams,Sales,32,83000,7,2019-11-07,Phoenix
+1018,Rachel Nelson,HR,39,91000,11,2015-09-21,Boston
+1019,Samuel Carter,Engineering,27,76000,4,2022-01-13,Austin
+1020,Tina Mitchell,Finance,36,108000,12,2014-06-03,Chicago
+1021,Victor Reed,Engineering,31,89000,7,2019-08-09,Seattle
+1022,Wendy Price,Sales,26,69000,3,2023-05-20,Phoenix
+1023,Xavier Bell,Marketing,35,84000,9,2017-02-15,Denver
+1024,Yara Cooper,HR,30,85000,6,2020-10-10,Boston
+1025,Zack Turner,Engineering,29,98000,6,2020-11-12,Austin
