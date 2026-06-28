@@ -1,0 +1,18 @@
+Row 16: Name is not valid
+Row 17: Email is not valid
+Row 18: Phone no. is not valid
+Row 19: Age is not valid
+Row 20: Age is not valid
+Row 21: Age is not valid
+Row 22: Salary is not valid
+Row 24: JoinDate is not valid
+Row 25: JoinDate is not valid
+Row 26: Department is not valid
+Row 28: Status is not valid
+Row 29: Status is not valid
+Row 30: Salary is not valid
+Row 32: Age is not valid
+Row 34: Phone no. is not valid
+Row 35: Department is not valid
+Row 37: Status is not valid
+Row 38: JoinDate is not valid
