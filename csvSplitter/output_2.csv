@@ -1,0 +1,11 @@
+TransactionID,OrderDate,CustomerID,CustomerName,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount,TotalAmount,PaymentMethod,OrderStatus
+TXN000011,2026-01-06,CUST011,Kevin White,Austin,TX,P1011,Notebook,Stationery,10,4.50,0.00,45.00,Cash,Delivered
+TXN000012,2026-01-06,CUST012,Lisa Ray,Jacksonville,FL,P1012,Pen Set,Stationery,5,12.00,2.00,58.00,UPI,Delivered
+TXN000013,2026-01-07,CUST013,Michael Scott,Fort Worth,TX,P1013,Coffee Maker,Home Appliances,1,95.00,5.00,90.00,Credit Card,Cancelled
+TXN000014,2026-01-07,CUST014,Nina Patel,Columbus,OH,P1014,Vacuum Cleaner,Home Appliances,1,180.00,20.00,160.00,Debit Card,Delivered
+TXN000015,2026-01-08,CUST015,Oscar Reed,Charlotte,NC,P1015,Smartphone,Electronics,1,650.00,30.00,620.00,Net Banking,Delivered
+TXN000016,2026-01-08,CUST016,Paul Walker,Indianapolis,IN,P1016,Power Bank,Electronics,2,35.00,0.00,70.00,UPI,Delivered
+TXN000017,2026-01-09,CUST017,Rachel Green,Seattle,WA,P1017,Backpack,Bags,1,60.00,5.00,55.00,Credit Card,Shipped
+TXN000018,2026-01-09,CUST018,Sam Wilson,Denver,CO,P1018,Gaming Mouse,Electronics,1,75.00,0.00,75.00,Credit Card,Delivered
+TXN000019,2026-01-10,CUST019,Tina Roy,Washington,DC,P1019,LED Lamp,Home Decor,2,40.00,5.00,75.00,Cash,Delivered
+TXN000020,2026-01-10,CUST020,Uma Das,Boston,MA,P1020,Water Bottle,Sports,4,18.00,2.00,70.00,UPI,Delivered

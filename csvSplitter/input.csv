@@ -1,0 +1,31 @@
+TransactionID,OrderDate,CustomerID,CustomerName,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount,TotalAmount,PaymentMethod,OrderStatus
+TXN000001,2026-01-01,CUST001,Alice Johnson,New York,NY,P1001,Laptop,Electronics,1,850.00,50.00,800.00,Credit Card,Delivered
+TXN000002,2026-01-01,CUST002,Bob Smith,Los Angeles,CA,P1002,Keyboard,Electronics,2,45.00,0.00,90.00,UPI,Delivered
+TXN000003,2026-01-02,CUST003,Charlie Brown,Chicago,IL,P1003,Office Chair,Furniture,1,180.00,10.00,170.00,Debit Card,Delivered
+TXN000004,2026-01-02,CUST004,Diana Prince,Houston,TX,P1004,Monitor,Electronics,2,220.00,20.00,420.00,Credit Card,Delivered
+TXN000005,2026-01-03,CUST005,Ethan Hunt,Phoenix,AZ,P1005,Desk,Furniture,1,300.00,0.00,300.00,Net Banking,Delivered
+TXN000006,2026-01-03,CUST006,Fiona Green,Philadelphia,PA,P1006,Wireless Mouse,Electronics,3,25.00,5.00,70.00,Cash,Delivered
+TXN000007,2026-01-04,CUST007,George Miller,San Antonio,TX,P1007,Bookshelf,Furniture,1,150.00,15.00,135.00,UPI,Delivered
+TXN000008,2026-01-04,CUST008,Hannah Lee,San Diego,CA,P1008,Tablet,Electronics,1,450.00,25.00,425.00,Credit Card,Shipped
+TXN000009,2026-01-05,CUST009,Ian Cooper,Dallas,TX,P1009,Headphones,Electronics,2,85.00,10.00,160.00,Debit Card,Delivered
+TXN000010,2026-01-05,CUST010,Julia Adams,San Jose,CA,P1010,Printer,Electronics,1,210.00,0.00,210.00,Credit Card,Processing
+TXN000011,2026-01-06,CUST011,Kevin White,Austin,TX,P1011,Notebook,Stationery,10,4.50,0.00,45.00,Cash,Delivered
+TXN000012,2026-01-06,CUST012,Lisa Ray,Jacksonville,FL,P1012,Pen Set,Stationery,5,12.00,2.00,58.00,UPI,Delivered
+TXN000013,2026-01-07,CUST013,Michael Scott,Fort Worth,TX,P1013,Coffee Maker,Home Appliances,1,95.00,5.00,90.00,Credit Card,Cancelled
+TXN000014,2026-01-07,CUST014,Nina Patel,Columbus,OH,P1014,Vacuum Cleaner,Home Appliances,1,180.00,20.00,160.00,Debit Card,Delivered
+TXN000015,2026-01-08,CUST015,Oscar Reed,Charlotte,NC,P1015,Smartphone,Electronics,1,650.00,30.00,620.00,Net Banking,Delivered
+TXN000016,2026-01-08,CUST016,Paul Walker,Indianapolis,IN,P1016,Power Bank,Electronics,2,35.00,0.00,70.00,UPI,Delivered
+TXN000017,2026-01-09,CUST017,Rachel Green,Seattle,WA,P1017,Backpack,Bags,1,60.00,5.00,55.00,Credit Card,Shipped
+TXN000018,2026-01-09,CUST018,Sam Wilson,Denver,CO,P1018,Gaming Mouse,Electronics,1,75.00,0.00,75.00,Credit Card,Delivered
+TXN000019,2026-01-10,CUST019,Tina Roy,Washington,DC,P1019,LED Lamp,Home Decor,2,40.00,5.00,75.00,Cash,Delivered
+TXN000020,2026-01-10,CUST020,Uma Das,Boston,MA,P1020,Water Bottle,Sports,4,18.00,2.00,70.00,UPI,Delivered
+TXN000021,2026-01-11,CUST021,Victor King,Nashville,TN,P1021,Treadmill,Fitness,1,950.00,100.00,850.00,Credit Card,Delivered
+TXN000022,2026-01-11,CUST022,Wendy Hall,Detroit,MI,P1022,Yoga Mat,Fitness,3,28.00,4.00,80.00,Debit Card,Delivered
+TXN000023,2026-01-12,CUST023,Xavier Ford,Portland,OR,P1023,Camera,Electronics,1,550.00,25.00,525.00,Net Banking,Returned
+TXN000024,2026-01-12,CUST024,Yara Khan,Las Vegas,NV,P1024,Tripod,Electronics,2,45.00,0.00,90.00,Credit Card,Delivered
+TXN000025,2026-01-13,CUST025,Zack Cole,Memphis,TN,P1025,Microwave,Home Appliances,1,220.00,15.00,205.00,UPI,Delivered
+TXN000026,2026-01-13,CUST026,Amy Stone,Louisville,KY,P1026,Blender,Home Appliances,1,75.00,5.00,70.00,Credit Card,Delivered
+TXN000027,2026-01-14,CUST027,Brian Wood,Baltimore,MD,P1027,Shoes,Fashion,2,65.00,10.00,120.00,Debit Card,Delivered
+TXN000028,2026-01-14,CUST028,Cathy Young,Milwaukee,WI,P1028,Jacket,Fashion,1,120.00,15.00,105.00,Cash,Delivered
+TXN000029,2026-01-15,CUST029,David King,Albuquerque,NM,P1029,Watch,Accessories,1,180.00,20.00,160.00,Credit Card,Delivered
+TXN000030,2026-01-15,CUST030,Ella Moore,Tucson,AZ,P1030,Sunglasses,Accessories,2,80.00,10.00,150.00,UPI,Processing

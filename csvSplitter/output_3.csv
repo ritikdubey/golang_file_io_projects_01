@@ -1,0 +1,11 @@
+TransactionID,OrderDate,CustomerID,CustomerName,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount,TotalAmount,PaymentMethod,OrderStatus
+TXN000021,2026-01-11,CUST021,Victor King,Nashville,TN,P1021,Treadmill,Fitness,1,950.00,100.00,850.00,Credit Card,Delivered
+TXN000022,2026-01-11,CUST022,Wendy Hall,Detroit,MI,P1022,Yoga Mat,Fitness,3,28.00,4.00,80.00,Debit Card,Delivered
+TXN000023,2026-01-12,CUST023,Xavier Ford,Portland,OR,P1023,Camera,Electronics,1,550.00,25.00,525.00,Net Banking,Returned
+TXN000024,2026-01-12,CUST024,Yara Khan,Las Vegas,NV,P1024,Tripod,Electronics,2,45.00,0.00,90.00,Credit Card,Delivered
+TXN000025,2026-01-13,CUST025,Zack Cole,Memphis,TN,P1025,Microwave,Home Appliances,1,220.00,15.00,205.00,UPI,Delivered
+TXN000026,2026-01-13,CUST026,Amy Stone,Louisville,KY,P1026,Blender,Home Appliances,1,75.00,5.00,70.00,Credit Card,Delivered
+TXN000027,2026-01-14,CUST027,Brian Wood,Baltimore,MD,P1027,Shoes,Fashion,2,65.00,10.00,120.00,Debit Card,Delivered
+TXN000028,2026-01-14,CUST028,Cathy Young,Milwaukee,WI,P1028,Jacket,Fashion,1,120.00,15.00,105.00,Cash,Delivered
+TXN000029,2026-01-15,CUST029,David King,Albuquerque,NM,P1029,Watch,Accessories,1,180.00,20.00,160.00,Credit Card,Delivered
+TXN000030,2026-01-15,CUST030,Ella Moore,Tucson,AZ,P1030,Sunglasses,Accessories,2,80.00,10.00,150.00,UPI,Processing

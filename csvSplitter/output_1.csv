@@ -1,0 +1,11 @@
+TransactionID,OrderDate,CustomerID,CustomerName,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount,TotalAmount,PaymentMethod,OrderStatus
+TXN000001,2026-01-01,CUST001,Alice Johnson,New York,NY,P1001,Laptop,Electronics,1,850.00,50.00,800.00,Credit Card,Delivered
+TXN000002,2026-01-01,CUST002,Bob Smith,Los Angeles,CA,P1002,Keyboard,Electronics,2,45.00,0.00,90.00,UPI,Delivered
+TXN000003,2026-01-02,CUST003,Charlie Brown,Chicago,IL,P1003,Office Chair,Furniture,1,180.00,10.00,170.00,Debit Card,Delivered
+TXN000004,2026-01-02,CUST004,Diana Prince,Houston,TX,P1004,Monitor,Electronics,2,220.00,20.00,420.00,Credit Card,Delivered
+TXN000005,2026-01-03,CUST005,Ethan Hunt,Phoenix,AZ,P1005,Desk,Furniture,1,300.00,0.00,300.00,Net Banking,Delivered
+TXN000006,2026-01-03,CUST006,Fiona Green,Philadelphia,PA,P1006,Wireless Mouse,Electronics,3,25.00,5.00,70.00,Cash,Delivered
+TXN000007,2026-01-04,CUST007,George Miller,San Antonio,TX,P1007,Bookshelf,Furniture,1,150.00,15.00,135.00,UPI,Delivered
+TXN000008,2026-01-04,CUST008,Hannah Lee,San Diego,CA,P1008,Tablet,Electronics,1,450.00,25.00,425.00,Credit Card,Shipped
+TXN000009,2026-01-05,CUST009,Ian Cooper,Dallas,TX,P1009,Headphones,Electronics,2,85.00,10.00,160.00,Debit Card,Delivered
+TXN000010,2026-01-05,CUST010,Julia Adams,San Jose,CA,P1010,Printer,Electronics,1,210.00,0.00,210.00,Credit Card,Processing
