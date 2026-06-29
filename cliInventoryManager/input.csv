@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Supplier,UnitPrice,StockQuantity,ReorderLevel,Warehouse,LastRestocked,Status
+P001,Laptop 14-inch,Electronics,TechWorld,65000.00,25,10,Warehouse-A,2026-05-20,In Stock
+P002,Wireless Mouse,Electronics,GadgetPro,799.00,120,30,Warehouse-A,2026-06-01,In Stock
+P004,LED Monitor 24-inch,Electronics,VisionTech,12500.00,18,8,Warehouse-B,2026-05-15,In Stock
+P005,Office Chair,Furniture,FurniCo,5500.00,12,5,Warehouse-C,2026-06-10,In Stock
+P006,Office Desk,Furniture,FurniCo,8900.00,7,5,Warehouse-C,2026-05-22,Low Stock
+P007,Notebook A4,Stationery,PaperPlus,60.00,250,50,Warehouse-D,2026-06-05,In Stock
+P008,Ball Pen Blue,Stationery,PaperPlus,15.00,600,100,Warehouse-D,2026-06-05,In Stock
+P009,USB Flash Drive 64GB,Electronics,StorageHub,850.00,42,20,Warehouse-A,2026-05-30,In Stock
+P010,External Hard Drive 1TB,Electronics,StorageHub,4200.00,9,10,Warehouse-A,2026-06-12,Low Stock
+P011,Coffee Mug,Kitchen,HomeStyle,250.00,85,25,Warehouse-E,2026-05-18,In Stock
+P012,Electric Kettle,Kitchen,HomeStyle,1800.00,15,10,Warehouse-E,2026-06-03,In Stock
+P013,Water Bottle 1L,Sports,FitLife,450.00,70,20,Warehouse-F,2026-05-29,In Stock
+P014,Yoga Mat,Sports,FitLife,1200.00,22,10,Warehouse-F,2026-06-08,In Stock
+P015,Running Shoes,Fashion,ShoeMart,3200.00,30,10,Warehouse-G,2026-06-02,In Stock
+P016,T-Shirt,Fashion,StyleWear,799.00,95,30,Warehouse-G,2026-06-04,In Stock
+P017,Jeans,Fashion,StyleWear,1800.00,40,15,Warehouse-G,2026-05-31,In Stock
+P018,Smartphone,Electronics,MobileHub,28000.00,14,8,Warehouse-A,2026-06-06,In Stock
+P019,Tablet,Electronics,MobileHub,21000.00,6,8,Warehouse-A,2026-05-27,Low Stock
+P020,Printer,Electronics,PrintTech,9800.00,11,5,Warehouse-B,2026-06-01,In Stock
+P021,Scanner,Electronics,PrintTech,7200.00,4,5,Warehouse-B,2026-06-07,Low Stock
+P022,Ceiling Fan,Home Appliances,CoolAir,2500.00,19,8,Warehouse-H,2026-05-26,In Stock
+P023,Air Cooler,Home Appliances,CoolAir,8900.00,8,5,Warehouse-H,2026-05-24,In Stock
+P024,Vacuum Cleaner,Home Appliances,CleanHome,7600.00,13,6,Warehouse-H,2026-06-09,In Stock
+P025,LED Bulb 12W,Electrical,BrightLite,180.00,350,75,Warehouse-I,2026-06-10,In Stock
+P026,WaterBottle,Home Appliances,Borosil,800.00,100,10,Warehouse-B,2026-06-28,In Stock
