@@ -1,0 +1,87 @@
+In Stock:
+Laptop 14-inch
+Wireless Mouse
+LED Monitor 24-inch
+Office Chair
+Notebook A4
+Ball Pen Blue
+USB Flash Drive 64GB
+Coffee Mug
+Electric Kettle
+Water Bottle 1L
+Yoga Mat
+Running Shoes
+T-Shirt
+Jeans
+Smartphone
+Printer
+Ceiling Fan
+Air Cooler
+Vacuum Cleaner
+LED Bulb 12W
+WaterBottle
+
+Low Stock:
+Office Desk
+External Hard Drive 1TB
+Tablet
+Scanner
+
+*******************************************************************
+GadgetPro:
+P002_Wireless Mouse
+
+PaperPlus:
+P007_Notebook A4
+P008_Ball Pen Blue
+
+Borosil:
+P026_WaterBottle
+
+TechWorld:
+P001_Laptop 14-inch
+
+HomeStyle:
+P011_Coffee Mug
+P012_Electric Kettle
+
+FitLife:
+P013_Water Bottle 1L
+P014_Yoga Mat
+
+VisionTech:
+P004_LED Monitor 24-inch
+
+FurniCo:
+P005_Office Chair
+P006_Office Desk
+
+ShoeMart:
+P015_Running Shoes
+
+CleanHome:
+P024_Vacuum Cleaner
+
+BrightLite:
+P025_LED Bulb 12W
+
+StorageHub:
+P009_USB Flash Drive 64GB
+P010_External Hard Drive 1TB
+
+StyleWear:
+P016_T-Shirt
+P017_Jeans
+
+MobileHub:
+P018_Smartphone
+P019_Tablet
+
+PrintTech:
+P020_Printer
+P021_Scanner
+
+CoolAir:
+P022_Ceiling Fan
+P023_Air Cooler
+

@@ -142,6 +142,46 @@ func main() {
 			}
 			writer.WriteAll(newRecords)
 			writer.Flush()
+		case strings.HasPrefix(command, "report"):
+			stockMap := make(map[string][]string)
+			supplierMap := make(map[string][]string)
+			reportFile, err := os.Create("report.txt")
+			if err != nil {
+				log.Fatalf("error while creating file: %v", err)
+			}
+			writer2 := bufio.NewWriter(reportFile)
+			for _, row := range records[1:] {
+				stockMap[row[9]] = append(stockMap[row[9]], row[1])
+				supplierMap[row[3]] = append(supplierMap[row[3]], row[0]+"_"+row[1])
+			}
+			for key, value := range stockMap {
+				fmt.Fprintf(writer2, "%v:\n", key)
+				for _, item := range value {
+					fmt.Fprintf(writer2, "%v\n", item)
+				}
+				fmt.Fprintf(writer2, "\n")
+			}
+			fmt.Fprintf(writer2, "*******************************************************************\n\n")
+			for key, value := range supplierMap {
+				fmt.Fprintf(writer2, "%v:\n", key)
+				for _, item := range value {
+					fmt.Fprintf(writer2, "%v\n", item)
+				}
+				fmt.Fprintf(writer2, "\n")
+			}
+			if err := writer2.Flush(); err != nil {
+				log.Fatalf("error while writing: %v\n", err)
+			}
+		case strings.HasPrefix(command, "get"):
+			inputData := strings.Split(command, " ")
+			for _, row := range records {
+				if row[0] == inputData[1] {
+					fmt.Printf("%v Info\n", row[1])
+					fmt.Printf("Price: %v Stock Quantity: %v\n", row[4], row[5])
+					fmt.Printf("Warehouse: %v Last Restocked: %v\n", row[7], row[8])
+					break
+				}
+			}
 		case strings.EqualFold(command, "exit"):
 			return
 		default:
